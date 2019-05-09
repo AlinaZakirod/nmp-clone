@@ -1,0 +1,163 @@
+body{
+  font-family: Open Sans;
+  font-size: 14px;
+  line-height: 1.8em;
+  font-weight: 300;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+h1{
+    font-family: Open Sans;
+    font-size: 48px;
+    font-weight: 100;
+    line-height: 2.2em;
+}
+h2{
+    font-family: Open Sans;
+    font-size: 36px;
+    font-weight: 100;
+    line-height: 1.2em; 
+}
+h3{
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.2em;
+    color: rgb(83,88,98);
+}
+nav {
+  background-color: #c12127;
+  color:rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 50px;
+}
+h4{
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2em;
+    color: rgb(83,88,98);
+}
+nav {
+  background-color: #c12127;
+  color:rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 50px;
+}
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+header{
+    background-image: url(images/city-scape.svg);
+    color: white;
+}
+.small-img{
+    height: 40px;
+}
+.login{
+    float: right;
+}
+.middle{
+    height: 400px;
+    padding-left: 20%;
+   }
+.center{
+    margin: 0 auto;
+    width: 90%;
+    align-content: center;
+}
+
+.btn-1{
+    padding: 9px;
+    background-color: rgb(240,146,51);
+    margin-top: 120px;
+    border-radius: 20px;
+}
+.free-colab{
+    padding: 90px 5%;
+    height: 300px;
+}
+
+.left-img{
+    display: inline-block;
+    height: 280px;
+    float: left;
+    padding-right: 60px;
+    
+}
+#colab{
+    background-color: rgb(39,53,71);
+    color: white;
+}
+.btn-2{
+    padding: 9px;
+    background-color: rgb(203, 56, 55);
+    margin-top: 60px;
+    border-radius: 20px;
+}
+.btn-3{
+    padding: 9px;
+    background-color: rgb(49, 68, 88);
+    margin-top: 60px;
+    border-radius: 20px;
+}
+
+}
+.npm-org {
+    padding-left: 100%;
+    line-height: 2.6em;
+}
+#what{
+    background-size: cover;
+    background-image: url(images/forklift.svg);
+    height: 400px;
+    color: white;
+    position: relative;
+   }
+
+.whatisnpm{
+    position: absolute;
+    margin-left: 20%;
+    margin-bottom: 20px;
+    width: 30%;
+    padding: 80px 0;
+}
+.red-link{
+    color: rgb(208, 74, 73);
+}
+.col-3{
+  float: left;
+  width: 33%;
+  align-content: center;
+  margin-bottom: 60px;
+  margin-top: 30px;
+ 
+}
+.col{
+  float: left;
+  column-gap: 50px;
+}
+.clearfix{
+  clear: both;
+}
+#white{
+    color: rgb(135, 145, 156);
+    text-align: center;
+    padding: 50px 0;
+}
+.raz{
+    width: 50%;
+}
